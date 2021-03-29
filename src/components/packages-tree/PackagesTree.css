@@ -1,0 +1,9 @@
+.packages-tree {
+  margin-left: 20px;
+  color: orange;
+}
+
+.packages-tree.has-children {
+  color: blue;
+}
+
